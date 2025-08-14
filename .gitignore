@@ -1,7 +1,7 @@
-eval "SSH_AUTH_SOCK=/tmp/ssh-XXXXXXXjusWm/agent.3812; export SSH_AUTH_SOCK;
-SSH_AGENT_PID=3813; export SSH_AGENT_PID;
-echo Agent pid 3813;"
-eval "SSH_AUTH_SOCK=/tmp/ssh-XXXXXXsN9U83/agent.3814; export SSH_AUTH_SOCK;
-SSH_AGENT_PID=3815; export SSH_AGENT_PID;
-echo Agent pid 3815;".pub
+eval "SSH_AUTH_SOCK=/tmp/ssh-XXXXXXjRxtfI/agent.3878; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=3879; export SSH_AGENT_PID;
+echo Agent pid 3879;"
+eval "SSH_AUTH_SOCK=/tmp/ssh-XXXXXXXtdmAy/agent.3880; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=3881; export SSH_AGENT_PID;
+echo Agent pid 3881;".pub
 venv/
